@@ -3,7 +3,7 @@
 - 💬 Visit my website: https://stephenpierzchajlo.github.io/
 - 📫 Reach me at: stevepierzchajlo@gmail.com
 
-![image]({https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white})
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/)
 
 <!--
 **StephenPierzchajlo/StephenPierzchajlo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
