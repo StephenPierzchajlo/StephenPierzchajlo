@@ -3,7 +3,7 @@
 - 💬 Visit my website: https://stephenpierzchajlo.github.io/
 - 📫 Reach me at: stevepierzchajlo@gmail.com
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/)
+[![Linkedin Badge](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/)
 
 ![Linkedin]({https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white})(https://www.linkedin.com/in/stephen-pierzchajlo-326302176/)
 
