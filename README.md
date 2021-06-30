@@ -3,7 +3,12 @@
 - 💬 Visit my website: https://stephenpierzchajlo.github.io/
 - 📫 Reach me at: stevepierzchajlo@gmail.com
 
-# Skills
+## Skills
+### Programming Languages:
+- R
+- Python
+- MATLAB
+
 
 
 <!--
