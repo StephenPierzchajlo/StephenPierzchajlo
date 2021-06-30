@@ -1,9 +1,10 @@
 ### Hi 👋, I'm Stephen
 MSc. in Neuroscience
 
-- 💬 Visit my website: https://stephenpierzchajlo.github.io/
+- ⚡ Visit my website: https://stephenpierzchajlo.github.io/
 - 📫 Reach me at: stevepierzchajlo@gmail.com
 - 📫 Find me on Linkedin: https://www.linkedin.com/in/stephen-pierzchajlo-326302176/
+- 😄 Tweet me: https://twitter.com/pierzchajlo
 
 ## Skills
 ### Programming Languages:
