@@ -3,6 +3,7 @@ MSc. in Neuroscience
 
 - 💬 Visit my website: https://stephenpierzchajlo.github.io/
 - 📫 Reach me at: stevepierzchajlo@gmail.com
+- 📫 Find me on Linkedin: https://www.linkedin.com/in/stephen-pierzchajlo-326302176/
 
 ## Skills
 ### Programming Languages:
