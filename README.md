@@ -1,5 +1,6 @@
 ### Hi 👋, I'm Stephen
 MSc. in Neuroscience
+PhD Researcher @ Stockholm University
 
 - ⚡ Visit my website: https://stephenpierzchajlo.github.io/
 - 📫 Reach me at: stevepierzchajlo@gmail.com
